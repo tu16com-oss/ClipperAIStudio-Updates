@@ -1,1 +1,7 @@
-A172391986D6CB428D503FE4436C15F0AAA3C7EDF27F2A5FBAFD0D95E79ADA6C
+
+{
+  "version": "1.0.1",
+  "download_url": "https://github.com/tu16com-oss/ClipperAIStudio-Updates/releases/latest/download/ClipperAIStudio_Setup.exe",
+  "sha256": "A172391986D6CB428D503FE4436C15F0AAA3C7EDF27F2A5FBAFD0D95E79ADA6C",
+  "release_notes": "Primera actualización automática de Clipper AI Studio."
+}
